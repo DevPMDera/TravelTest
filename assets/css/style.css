@@ -1911,13 +1911,13 @@ body.tt-magic-cursor #magic-cursor {
   }
 }
 .topbar-area .topbar-wrap .header-logo img {
-  min-width: 120px;
-  max-width: 120px;
+  min-width: 80px;
+  max-width: 80px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .topbar-area .topbar-wrap .header-logo img {
-    max-width: 100px;
-    min-width: 100px;
+    max-width: 60px;
+    min-width: 60px;
   }
 }
 .topbar-area .topbar-wrap .logo-and-search-area {
