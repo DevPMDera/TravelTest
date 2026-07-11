@@ -1911,8 +1911,8 @@ body.tt-magic-cursor #magic-cursor {
   }
 }
 .topbar-area .topbar-wrap .header-logo img {
-  min-width: 10px;
-  max-width: 10px;
+  min-width: 80px;
+  max-width: 80px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .topbar-area .topbar-wrap .header-logo img {
